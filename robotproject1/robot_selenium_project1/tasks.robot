@@ -37,10 +37,10 @@ Login
     Click Element  id:go-to-login
     Sleep          1
     Click Element  id:username
-    Input Text     id:username       #input username
+    Input Text     id:username       #input registered username
     Sleep          0.5
     Click Element  id:password
-    Input Text     id:password       #input password
+    Input Text     id:password       #input registered password
     Sleep          0.5
     Click Element  id:login-email-text
 #pizza
