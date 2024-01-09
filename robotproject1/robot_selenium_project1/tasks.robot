@@ -30,7 +30,7 @@ ${BROWSER}          Chrome
 ...    Check and click on upsell button to add on item
 ...    Scroll down and click on payment button
 ...    Proceed to payment page
-*** Tasks ***
+*** Keywords ***
 Login
     Maximize Browser Window
     Wait Until Element Is Visible    id:go-to-login 
